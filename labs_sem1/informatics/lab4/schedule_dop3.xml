@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<all>
+    <week>четная и нечетная</week>
+    <kolvo_par>8</kolvo_par>
+    <schedule>
+        <day>
+            <tuesday>
+                <pair>
+                    <title>Линейная алгебра</title>
+                    <type>Практика</type>
+                    <teacher>Цветков Константин Борисович</teacher>
+                    <adress>
+                        <building>Главный корпус</building>
+                        <classroom>2430</classroom>
+                    </adress>
+                    <time>
+                        <beginning>10:00</beginning>
+                        <end>11:30</end>
+                    </time>
+                </pair>
+                <pair>
+                    <title>Линейная алгебра</title>
+                    <type>Лекция</type>
+                    <teacher>Цветков Константин Борисович</teacher>
+                    <adress>
+                        <building>Главный корпус</building>
+                        <classroom>1405</classroom>
+                    </adress>
+                    <time>
+                        <beginning>11:40</beginning>
+                        <end>13:10</end>
+                    </time>
+                </pair>
+                <pair>
+                    <title>Основы дискретной математики</title>
+                    <type>Лекция</type>
+                    <teacher>Поляков Владимир Иванович</teacher>
+                    <adress>
+                        <building>Главный корпус</building>
+                        <classroom>2403</classroom>
+                    </adress>
+                    <time>
+                        <beginning>17:00</beginning>
+                        <end>18:30</end>
+                    </time>
+                </pair>
+                <pair>
+                    <title>Основы дискретной математики</title>
+                    <type>Практика</type>
+                    <teacher>Поляков Владимир Иванович</teacher>
+                    <adress>
+                        <building>Главный корпус</building>
+                        <classroom>2403</classroom>
+                    </adress>
+                    <time>
+                        <beginning>18:40</beginning>
+                        <end>20:10</end>
+                    </time>
+                </pair>
+            </tuesday>
+        </day>
+        <day>
+            <friday>
+                <pair>
+                    <title>Математический анализ</title>
+                    <type>Практика</type>
+                    <teacher>Назаров Равшанжон</teacher>
+                    <adress>
+                        <building>Ломо</building>
+                        <classroom>4306</classroom>
+                    </adress>
+                    <time>
+                        <beginning>8:20</beginning>
+                        <end>9:50</end>
+                    </time>
+                </pair>
+                <pair>
+                    <title>Математический анализ</title>
+                    <type>Лекция</type>
+                    <teacher>Шиманская Галина Сергеевна</teacher>
+                    <adress>
+                        <building>Ломо</building>
+                        <classroom>2202</classroom>
+                    </adress>
+                    <time>
+                        <beginning>10:00</beginning>
+                        <end>11:30</end>
+                    </time>
+                </pair>
+                <pair>
+                    <title>Английский язык B2</title>
+                    <type>Практика</type>
+                    <teacher>Артеменкова Юлия Валерьевна</teacher>
+                    <adress>
+                        <building>Ломо</building>
+                        <classroom>3321</classroom>
+                    </adress>
+                    <time>
+                        <beginning>11:40</beginning>
+                        <end>13:10</end>
+                    </time>
+                </pair>
+                <pair>
+                    <title>Английский язык B2</title>
+                    <type>Практика</type>
+                    <teacher>Артеменкова Юлия Валерьевна</teacher>
+                    <adress>
+                        <building>Ломо</building>
+                        <classroom>3321</classroom>
+                    </adress>
+                    <time>
+                        <beginning>13:30</beginning>
+                        <end>15:00</end>
+                    </time>
+                </pair>
+            </friday>
+        </day>
+    </schedule>
+</all>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schedule>
+    <pair>
+        <title>Линейная алгебра</title>
+        <type>Практика</type>
+        <teacher>Цветков Константин Борисович</teacher>
+        <adress>
+            <building>Главный корпус</building>
+            <classroom>2430</classroom>
+        </adress>
+        <time>
+            <beginning>10:00</beginning>
+            <end>11:30</end>
+        </time>
+    </pair>
+    <pair>
+        <title>Линейная алгебра</title>
+        <type>Лекция</type>
+        <teacher>Цветков Константин Борисович</teacher>
+        <adress>
+            <building>Главный корпус</building>
+            <classroom>1405</classroom>
+        </adress>
+        <time>
+            <beginning>11:40</beginning>
+            <end>13:10</end>
+        </time>
+    </pair>
+    <pair>
+        <title>Основы дискретной математики</title>
+        <type>Лекция</type>
+        <teacher>Поляков Владимир Иванович</teacher>
+        <adress>
+            <building>Главный корпус</building>
+            <classroom>2403</classroom>
+        </adress>
+        <time>
+            <beginning>17:00</beginning>
+            <end>18:30</end>
+        </time>
+    </pair>
+    <pair>
+        <title>Основы дискретной математики</title>
+        <type>Практика</type>
+        <teacher>Поляков Владимир Иванович</teacher>
+        <adress>
+            <building>Главный корпус</building>
+            <classroom>2403</classroom>
+        </adress>
+        <time>
+            <beginning>18:40</beginning>
+            <end>20:10</end>
+        </time>
+    </pair>
+</schedule>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<schedule>
+    <pair>
+        <title>Математический анализ</title>
+        <type>Практика</type>
+        <teacher>Назаров Равшанжон</teacher>
+        <adress>
+            <building>Ломо</building>
+            <classroom>4306</classroom>
+        </adress>
+        <time>
+            <beginning>8:20</beginning>
+            <end>9:50</end>
+        </time>
+    </pair>
+    <pair>
+        <title>Математический анализ</title>
+        <type>Лекция</type>
+        <teacher>Шиманская Галина Сергеевна</teacher>
+        <adress>
+            <building>Ломо</building>
+            <classroom>2202</classroom>
+        </adress>
+        <time>
+            <beginning>10:00</beginning>
+            <end>11:30</end>
+        </time>
+    </pair>
+    <pair>
+        <title>Английский язык B2</title>
+        <type>Практика</type>
+        <teacher>Артеменкова Юлия Валерьевна</teacher>
+        <adress>
+            <building>Ломо</building>
+            <classroom>3321</classroom>
+        </adress>
+        <time>
+            <beginning>11:40</beginning>
+            <end>13:10</end>
+        </time>
+    </pair>
+    <pair>
+        <title>Английский язык B2</title>
+        <type>Практика</type>
+        <teacher>Артеменкова Юлия Валерьевна</teacher>
+        <adress>
+            <building>Ломо</building>
+            <classroom>3321</classroom>
+        </adress>
+        <time>
+            <beginning>13:30</beginning>
+            <end>15:00</end>
+        </time>
+    </pair>
+</schedule>
