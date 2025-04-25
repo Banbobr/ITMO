@@ -1,0 +1,19 @@
+add
+P3112
+1
+1
+16
+100
+
+FIRST
+igor
+1111-11-11
+100
+script
+1
+1
+1
+loc
+show
+info
+execute_script /Users/nikolajpolisenko/IdeaProjects/laba5/src/main/java/ru/minibobr/script.txt

@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "rliwrglijwg",
+    "coordinates": {
+      "x": 1,
+      "y": 1
+    },
+    "creationDate": "Apr 23, 2025, 3:04:40 PM",
+    "studentsCount": 11,
+    "averageMark": 1,
+    "formOfEducation": null,
+    "semesterEnum": null,
+    "groupAdmin": {
+      "name": "1",
+      "birthday": "1111-11-11",
+      "height": 100,
+      "passportID": "pas",
+      "location": {
+        "x": 1,
+        "y": 1.0,
+        "z": 1.0,
+        "name": "pas"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "1",
+    "coordinates": {
+      "x": 1,
+      "y": 1
+    },
+    "creationDate": "Apr 23, 2025, 5:18:35 PM",
+    "studentsCount": 1,
+    "averageMark": 1,
+    "formOfEducation": "DISTANCE_EDUCATION",
+    "semesterEnum": "FIRST",
+    "groupAdmin": {
+      "name": "d",
+      "birthday": "1212-12-12",
+      "height": 100000,
+      "passportID": "123",
+      "location": {
+        "x": 1,
+        "y": 1.0,
+        "z": 1.0,
+        "name": "loc"
+      }
+    }
+  }
+]
